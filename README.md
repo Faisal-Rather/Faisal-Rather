@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 **About Me!**
 
-- 💻 Im a student of Coputer Science
+- 💻 Im a student of Computer Science
 - 🌱 I’m currently learning **Python**.
 - ⚡ Fun fact **I love Photography**
 - 📫 Email me at [imfaisalrather@gmail.com](mailto:imfaisalrather@gmail.com).
