@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Faisal's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="xhttps://www.facebook.com/faeaslahmad.rather">
-  <img align="left" alt="Asfa's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Faisal's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/Faysa1rather">
   <img align="left" alt="Faisal's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
