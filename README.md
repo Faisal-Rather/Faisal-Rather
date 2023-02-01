@@ -31,4 +31,35 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Python**.
 - ⚡ Fun fact **I love Photography**
 - 📫 Email me at [imfaisalrather@gmail.com](mailto:imfaisalrather@gmail.com).
+ <br/>
+ <br/>
+ ## 📌 Pinned Repositories
+<br>
+<center>
+  <table>
+    <tr>
+        <td><a href="https://github.com/Faisal-Rather/Faisal-Rather">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Faisal-Rather&repo=Faisal-Rather&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
 
+     </tr>    
+   </table>
+   
+ ## &#x1f4c8; GitHub Stats
+<br>
+<center>
+  <table>
+    <tr>
+        <td><a href="#">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-Rather&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a></td>
+        <td><a href="#">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Faisal-Rather&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Faisals's GitHub Stats" />
+</a></td>
+    </tr>  
+    <tr>
+      <td colspan="2"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-Rather&theme=dark" alt="Faisal Rather" /></td>
+    </tr>
+  </table>
+</center>
+  
