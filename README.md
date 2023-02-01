@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 - 📫 Email me at [imfaisalrather@gmail.com](mailto:imfaisalrather@gmail.com).
  <br/>
  <br/>
+ 
+ 
  ## 📌 Pinned Repositories
+ 
 <br>
 <center>
   <table>
